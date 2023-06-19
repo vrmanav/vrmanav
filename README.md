@@ -10,7 +10,7 @@
 
 💬 Ask me about **Python & Cloud Computing**
 
-📚 Current read - <em>Building a Second Brain</em> by Tiago Forte
+📚 Current read - <em>Cleaning up Your Mental Mess</em> by Dr. Caroline Leaf
 
 🤖 AI | ML | Cloud Enthusiast
 
